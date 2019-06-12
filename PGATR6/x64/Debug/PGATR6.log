@@ -1,0 +1,100 @@
+﻿  
+  D:\PGATR6\PGATR6>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -ccbin "D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile   -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od  /FS /Zi /RTC1 /MDd " -o x64\Debug\main.cu.obj "D:\PGATR6\PGATR6\main.cu" -clean 
+  main.cu
+  Compiling CUDA source file main.cu...
+  
+  D:\PGATR6\PGATR6>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc141.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\main.cu.obj "D:\PGATR6\PGATR6\main.cu" 
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(94): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(94): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(95): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(95): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(143): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(143): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(98): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(98): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(99): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(99): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(176): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(176): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(96): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(96): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(97): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(97): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(248): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(248): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x2.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x2.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x3.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x3.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x4.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x4.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x2.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x2.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x3.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x3.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x4.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x4.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x2.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x2.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x3.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x3.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x4.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x4.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(95): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(95): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(96): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(96): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(132): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(132): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(94): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(94): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(95): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(95): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(143): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp(143): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(98): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(98): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(99): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(99): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(176): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp(176): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(96): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(96): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(97): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(97): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(248): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp(248): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x2.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x2.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x3.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x3.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x4.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x4.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x2.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x2.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x3.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x3.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x4.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x4.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x2.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x2.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x3.hpp(36): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x3.hpp(36): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x4.hpp(35): warning : __device__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x4.hpp(35): warning : __host__ annotation is ignored on a function("mat") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(95): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(95): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(96): warning : __device__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(96): warning : __host__ annotation is ignored on a function("vec") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(132): warning : __device__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+d:\pgatr6\glm\glm\detail/type_vec1.hpp(132): warning : __host__ annotation is ignored on a function("operator=") that is explicitly defaulted on its first declaration
+  main.cu
+  device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead.
+D:/PGATR6/PGATR6/main.cu(260): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:/PGATR6/PGATR6/main.cu(261): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:/PGATR6/PGATR6/main.cu(267): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:/PGATR6/PGATR6/main.cu(276): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:/PGATR6/PGATR6/main.cu(277): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:/PGATR6/PGATR6/main.cu(279): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+     Creando biblioteca D:\PGATR6\x64\Debug\PGATR6.lib y objeto D:\PGATR6\x64\Debug\PGATR6.exp
+  PGATR6.vcxproj -> D:\PGATR6\x64\Debug\PGATR6.exe

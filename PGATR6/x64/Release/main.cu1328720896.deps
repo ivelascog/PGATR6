@@ -1,0 +1,420 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_config.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\sal.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vadefs.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\time.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cmath
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\yvals_core.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\use_ansi.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdlib
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtgmath.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xtr1common
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\sm_70_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\vector_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\device_launch_parameters.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v10.0\include\crt/device_functions.h
+D:\PGATR6\glm\glm/glm.hpp
+d:\pgatr6\glm\glm\detail/_fixes.hpp
+d:\pgatr6\glm\glm\detail/setup.hpp
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cassert
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstddef
+d:\pgatr6\glm\glm\detail\../simd/platform.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdint
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdint.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\type_traits
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstddef
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\initializer_list
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\climits
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cfloat
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\limits
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ymath.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cwchar
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/stat.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\sys/types.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cassert
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+d:\pgatr6\glm\glm\fwd.hpp
+d:\pgatr6\glm\glm\detail/qualifier.hpp
+d:\pgatr6\glm\glm\detail\setup.hpp
+d:\pgatr6\glm\glm\vec2.hpp
+d:\pgatr6\glm\glm\./ext/vector_bool2.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_vec2.hpp
+d:\pgatr6\glm\glm\detail\type_vec2.inl
+d:\pgatr6\glm\glm\detail\./compute_vector_relational.hpp
+d:\pgatr6\glm\glm\detail\setup.hpp
+d:\pgatr6\glm\glm\./ext/vector_bool2_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_float2.hpp
+d:\pgatr6\glm\glm\./ext/vector_float2_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_double2.hpp
+d:\pgatr6\glm\glm\./ext/vector_double2_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_int2.hpp
+d:\pgatr6\glm\glm\./ext/vector_int2_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint2.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint2_precision.hpp
+d:\pgatr6\glm\glm\vec3.hpp
+d:\pgatr6\glm\glm\./ext/vector_bool3.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_vec3.hpp
+d:\pgatr6\glm\glm\detail\type_vec3.inl
+d:\pgatr6\glm\glm\./ext/vector_bool3_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_float3.hpp
+d:\pgatr6\glm\glm\./ext/vector_float3_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_double3.hpp
+d:\pgatr6\glm\glm\./ext/vector_double3_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_int3.hpp
+d:\pgatr6\glm\glm\./ext/vector_int3_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint3.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint3_precision.hpp
+d:\pgatr6\glm\glm\vec4.hpp
+d:\pgatr6\glm\glm\./ext/vector_bool4.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_vec4.hpp
+d:\pgatr6\glm\glm\detail\type_vec4.inl
+d:\pgatr6\glm\glm\./ext/vector_bool4_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_float4.hpp
+d:\pgatr6\glm\glm\./ext/vector_float4_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_double4.hpp
+d:\pgatr6\glm\glm\./ext/vector_double4_precision.hpp
+d:\pgatr6\glm\glm\ext\../detail/setup.hpp
+d:\pgatr6\glm\glm\./ext/vector_int4.hpp
+d:\pgatr6\glm\glm\./ext/vector_int4_precision.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint4.hpp
+d:\pgatr6\glm\glm\./ext/vector_uint4_precision.hpp
+d:\pgatr6\glm\glm\mat2x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double2x2.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x2.hpp
+d:\pgatr6\glm\glm\detail\type_mat2x2.inl
+d:\pgatr6\glm\glm\detail\../matrix.hpp
+d:\pgatr6\glm\glm\detail/setup.hpp
+d:\pgatr6\glm\glm\mat2x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double2x3.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x3.hpp
+d:\pgatr6\glm\glm\detail\type_mat2x3.inl
+d:\pgatr6\glm\glm\./ext/matrix_double2x3_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x3_precision.hpp
+d:\pgatr6\glm\glm\mat2x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double2x4.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat2x4.hpp
+d:\pgatr6\glm\glm\detail\type_mat2x4.inl
+d:\pgatr6\glm\glm\./ext/matrix_double2x4_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x4_precision.hpp
+d:\pgatr6\glm\glm\mat3x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double3x2.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x2.hpp
+d:\pgatr6\glm\glm\detail\type_mat3x2.inl
+d:\pgatr6\glm\glm\./ext/matrix_double3x2_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x2_precision.hpp
+d:\pgatr6\glm\glm\mat3x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double3x3.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x3.hpp
+d:\pgatr6\glm\glm\detail\type_mat3x3.inl
+d:\pgatr6\glm\glm\./ext/matrix_double3x3_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x3_precision.hpp
+d:\pgatr6\glm\glm\mat3x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double3x4.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat3x4.hpp
+d:\pgatr6\glm\glm\detail\type_mat3x4.inl
+d:\pgatr6\glm\glm\./ext/matrix_double3x4_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float3x4_precision.hpp
+d:\pgatr6\glm\glm\mat4x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double4x2.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x2.hpp
+d:\pgatr6\glm\glm\detail\type_mat4x2.inl
+d:\pgatr6\glm\glm\./ext/matrix_double4x2_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x2_precision.hpp
+d:\pgatr6\glm\glm\mat4x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double4x3.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x3.hpp
+d:\pgatr6\glm\glm\detail\type_mat4x3.inl
+d:\pgatr6\glm\glm\./ext/matrix_double4x3_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x3.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x3_precision.hpp
+d:\pgatr6\glm\glm\mat4x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double4x4.hpp
+d:\pgatr6\glm\glm\ext\../detail/type_mat4x4.hpp
+d:\pgatr6\glm\glm\detail\type_mat4x4.inl
+d:\pgatr6\glm\glm\./ext/matrix_double4x4_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x4.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float4x4_precision.hpp
+d:\pgatr6\glm\glm\detail/func_matrix.inl
+d:\pgatr6\glm\glm\detail\../geometric.hpp
+d:\pgatr6\glm\glm\detail/func_geometric.inl
+d:\pgatr6\glm\glm\detail\../exponential.hpp
+d:\pgatr6\glm\glm\detail/type_vec1.hpp
+d:\pgatr6\glm\glm\detail\type_vec1.inl
+d:\pgatr6\glm\glm\detail/func_exponential.inl
+d:\pgatr6\glm\glm\detail\../vector_relational.hpp
+d:\pgatr6\glm\glm\detail/setup.hpp
+d:\pgatr6\glm\glm\detail/func_vector_relational.inl
+d:\pgatr6\glm\glm\detail\_vectorize.hpp
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cassert
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+d:\pgatr6\glm\glm\detail\../common.hpp
+d:\pgatr6\glm\glm\detail/_fixes.hpp
+d:\pgatr6\glm\glm\detail/func_common.inl
+d:\pgatr6\glm\glm\detail\compute_common.hpp
+d:\pgatr6\glm\glm\detail\setup.hpp
+d:\pgatr6\glm\glm\./ext/matrix_double2x2_precision.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x2.hpp
+d:\pgatr6\glm\glm\./ext/matrix_float2x2_precision.hpp
+d:\pgatr6\glm\glm\trigonometric.hpp
+d:\pgatr6\glm\glm\detail/setup.hpp
+d:\pgatr6\glm\glm\detail/func_trigonometric.inl
+d:\pgatr6\glm\glm\packing.hpp
+d:\pgatr6\glm\glm\detail/func_packing.inl
+d:\pgatr6\glm\glm\detail\type_half.hpp
+d:\pgatr6\glm\glm\detail\setup.hpp
+d:\pgatr6\glm\glm\detail\type_half.inl
+d:\pgatr6\glm\glm\integer.hpp
+d:\pgatr6\glm\glm\detail/func_integer.inl
+D:\PGATR6\glm\glm/gtx/transform.hpp
+d:\pgatr6\glm\glm\gtx\../gtc/matrix_transform.hpp
+d:\pgatr6\glm\glm\gtc\../ext/matrix_projection.hpp
+d:\pgatr6\glm\glm\ext\../gtc/constants.hpp
+d:\pgatr6\glm\glm\gtc\../ext/scalar_constants.hpp
+d:\pgatr6\glm\glm\ext\../detail/setup.hpp
+d:\pgatr6\glm\glm\ext\scalar_constants.inl
+d:\pgatr6\glm\glm\gtc\constants.inl
+d:\pgatr6\glm\glm\ext\matrix_projection.inl
+d:\pgatr6\glm\glm\gtc\../ext/matrix_clip_space.hpp
+d:\pgatr6\glm\glm\ext\matrix_clip_space.inl
+d:\pgatr6\glm\glm\gtc\../ext/matrix_transform.hpp
+d:\pgatr6\glm\glm\ext\matrix_transform.inl
+d:\pgatr6\glm\glm\gtc\matrix_transform.inl
+d:\pgatr6\glm\glm\gtx\transform.inl
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vector
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xmemory0
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\new
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\exception
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\eh.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xutility
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\utility
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iosfwd
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstdio
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cstring
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xatomic0.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\intrin0.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\stdexcept
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\fstream
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\istream
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ostream
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\ios
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocnum
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\streambuf
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xiosbase
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocale
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\typeinfo
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\memory
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xfacet
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\system_error
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\cerrno
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xcall_once.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xerrc.h
+D:\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\string
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\xstring_insert.h
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\algorithm
+D:\Programas\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include\iostream
+d:\pgatr6\pgatr6\timer.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include\cuda_runtime.h
