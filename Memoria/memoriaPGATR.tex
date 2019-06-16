@@ -64,6 +64,7 @@ Sin embargo, como era de esperar la implementación en CPU proporcionada por Mes
 \section{Mejoras}
 En esta sección se detallaran algunas mejoras que pueden realizarse al algoritmo para mejorar su eficiencia.\\
 
+La mejora mas obvia seria implementar la tecnica de \textit{Spatial Hashing} tambien en esta implementacion en GPU. Sin emargo realizar esto supone una serie de problemas, el primero de ellos consiste en lidiar con las colisiones propias de estas tablas en su construccion de forma masivamente paralela, donde habra que tener algun metodo para lidiar con estas condiciones que no requiera de muchos accesos a memoria y que no provoque demasiados intentos fallidos de colocación, ya que esto puede provocar mucha divergencia. Por otro lado, tambien hay que tener en cuenta que estas tabals son por definicion dispersas y ademas fuerzan a accesos no coalescentes en la GPU lo que provoca que el acceso a la tabla no sea tan rapido como cabria esperar.
 
 
 
